@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Ponsel -->
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="4"
+        android:pathData="M46,32H62A5,5 0 0 1 67,37V71A5,5 0 0 1 62,76H46A5,5 0 0 1 41,71V37A5,5 0 0 1 46,32Z" />
+    <!-- Titik isyarat gerak di kiri dan kanan -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M28,42a3,3 0 1,0 6,0a3,3 0 1,0 -6,0M28,54a3,3 0 1,0 6,0a3,3 0 1,0 -6,0M28,66a3,3 0 1,0 6,0a3,3 0 1,0 -6,0M74,42a3,3 0 1,0 6,0a3,3 0 1,0 -6,0M74,54a3,3 0 1,0 6,0a3,3 0 1,0 -6,0M74,66a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+</vector>

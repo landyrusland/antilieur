@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anti lieur</string>
+    <string name="tagline">Titik isyarat gerak di tepi layar untuk mengurangi mabuk perjalanan saat main HP di kendaraan.</string>
+    <string name="start">Mulai isyarat gerak</string>
+    <string name="stop">Hentikan</string>
+    <string name="status_on">Aktif: titik tampil di atas semua aplikasi</string>
+    <string name="status_off">Tidak aktif</string>
+
+    <string name="section_settings">Pengaturan</string>
+    <string name="label_sensitivity">Sensitivitas</string>
+    <string name="label_size">Ukuran titik</string>
+    <string name="label_rows">Jumlah titik per sisi</string>
+    <string name="label_opacity">Kepekatan</string>
+    <string name="reset">Kembalikan ke bawaan</string>
+
+    <string name="section_howto">Cara kerja</string>
+    <string name="howto">• Mabuk perjalanan muncul karena mata melihat layar yang diam, sementara telinga bagian dalam merasakan kendaraan bergerak.\n\n• Anti lieur membaca sensor gerak HP. Saat kendaraan mengerem, menambah kecepatan, atau berbelok, titik di tepi layar ikut bergeser, sehingga mata ikut melihat gerakan tersebut.\n\n• Pegang HP seperti biasa sambil menghadap ke depan kendaraan. Titik tidak menghalangi sentuhan.\n\n• Hentikan lewat tombol di atas atau tombol \"Hentikan\" pada notifikasi.\n\n• Jika tetap pusing, istirahatkan mata dengan melihat ke luar jendela.</string>
+
+    <string name="overlay_title">Izinkan tampil di atas aplikasi lain</string>
+    <string name="overlay_message">Agar titik isyarat gerak terlihat saat Anda membuka aplikasi lain, aktifkan izin \"Tampilkan di atas aplikasi lain\" untuk Anti lieur, lalu kembali ke aplikasi ini.</string>
+    <string name="open_settings">Buka pengaturan</string>
+    <string name="cancel">Batal</string>
+
+    <string name="channel_name">Isyarat gerak</string>
+    <string name="notif_title">Anti lieur aktif</string>
+    <string name="notif_text">Titik isyarat gerak sedang ditampilkan</string>
+</resources>
